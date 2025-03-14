@@ -20,5 +20,5 @@ void main() {
     default:
   }
 
-  print("$givAnswer");
+  print("$answer");
 }
